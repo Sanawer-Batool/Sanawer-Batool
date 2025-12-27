@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 📝 I regularly write articles on [https://medium.com/@sanawerb246](https://sanawer-batool.medium.com/)
+- 📝 I regularly write articles on [https://sanawer-batool.medium.com/](https://sanawer-batool.medium.com/)
 
 - 💻 My Portfolio Website on [https://sanawer-batool.github.io/](https://sanawer-batool.github.io/)
 
