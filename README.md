@@ -22,7 +22,7 @@
 <a href="https://twitter.com/sanawerbatool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanawerbatool" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanawer-batool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanawer-batool" height="30" width="40" /></a>
 <a href="https://kaggle.com/sanawerb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sanawerb" height="30" width="40" /></a>
-<a href="https://medium.com/@sanawerb246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanawerb246" height="30" width="40" /></a>
+<a href="https://sanawer-batool.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanawerb246" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanawer_batool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanawer_batool" height="30" width="40" /></a>
 </p>
 
