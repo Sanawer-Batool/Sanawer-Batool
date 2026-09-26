@@ -1,92 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Hi,%20I'm%20Sanawer%20Batool&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%7C%20Astrophysics%20%2B%20AI%20Enthusiast&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Sanawer%20Batool&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%C2%B7%20Astrophysics%20%2B%20AI&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=AI%2FML+Intern+%7C+Recent+Graduate;Where+Machine+Learning+Meets+the+Cosmos;Building+Models%2C+Chasing+Signals+from+Space" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=AI%2FML+Intern+%7C+Recent+Graduate;Where+Machine+Learning+Meets+the+Cosmos;Building+Models%2C+Chasing+Signals+from+Space" alt="Typing SVG"/>
 </a>
+
+<br/>
+
+<a href="https://sanawer-batool.github.io/"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/sanawer-batool"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://sanawer-batool.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://kaggle.com/sanawerb"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://www.leetcode.com/sanawer_batool"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://twitter.com/sanawerbatool"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:sanawerb246@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=sanawer-batool&style=flat-square&color=0e75b6" alt="profile views"/>
 
 </div>
 
-<br>
+---
 
-## About
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
 
-**Background** — Recent graduate, currently working as an AI/ML Intern.
+### 🌌 About
 
-**Research interest** — Drawn to the space where machine learning meets astrophysics: using AI to make sense of the universe's harder questions, from noisy signals to the physics they encode. It's the pursuit I return to outside of work, purely out of curiosity.
+```yaml
+role:      AI/ML Intern · Recent Graduate
+focus:     machine learning × astrophysics
+chasing:   noisy signals → the physics they encode
+open_to:   AI/ML projects on real scientific problems
+writing:   technical articles on Medium
+```
 
-**Collaboration** — Open to AI/ML projects, especially ones that put models to work on real scientific problems.
+> Drawn to the space where machine learning meets astrophysics — using AI to
+> make sense of the universe's harder questions. It's the pursuit I return to
+> outside of work, purely out of curiosity.
 
-**Writing** — Technical articles on [Medium](https://sanawer-batool.medium.com/)
+`Still a student at heart — the questions haven't gotten any less interesting.`
 
-**Portfolio** — [sanawer-batool.github.io](https://sanawer-batool.github.io/)
+<br clear="right"/>
 
-**Contact** — [sanawerb246@gmail.com](mailto:sanawerb246@gmail.com)
+---
 
-<sub>Still a student at heart — the questions haven't gotten any less interesting.</sub>
-
-<br>
-
-## 🔗 Connect With Me
-
-<p align="left">
-<a href="https://twitter.com/sanawerbatool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanawerbatool" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanawer-batool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanawer-batool" height="30" width="40" /></a>
-<a href="https://kaggle.com/sanawerb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sanawerb" height="30" width="40" /></a>
-<a href="https://sanawer-batool.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanawerb246" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanawer_batool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanawer_batool" height="30" width="40" /></a>
-</p>
-
-<br>
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-</p>
-
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sanawer-batool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanawer-batool&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanawer-batool&theme=tokyonight" alt="sanawer-batool streak stats" />
-</p>
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=sanawer-batool&theme=algolia&column=7&margin-w=10" alt="sanawer-batool" />
-</a>
-</p>
-
-<br>
+### 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=100&section=footer" />
+
+**ML / Data**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" height="48"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="42"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="42"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="42"/>
+
+**Languages & Cloud**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,linux,aws,gcp,docker,jenkins,git&theme=dark" height="48"/>
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,postman&theme=dark" height="48"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" height="42"/>
+
+</div>
+
+---
+
+### 📊 GitHub in Numbers
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sanawer-batool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanawer-batool&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+
+<img src="https://streak-stats.demolab.com?user=sanawer-batool&theme=tokyonight&hide_border=true&border_radius=12" alt="streak stats"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanawer-batool&theme=tokyo-night&hide_border=true&area=true&radius=12" width="95%"/>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanawer-batool&theme=algolia&column=7&margin-w=8&no-frame=true"/>
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=110&section=footer" width="100%"/>
+
 </div>
