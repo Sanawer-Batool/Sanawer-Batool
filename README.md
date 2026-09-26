@@ -73,15 +73,15 @@ writing:   technical articles on Medium
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sanawer-batool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanawer-batool&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sanawer-batool&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12"/>
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanawer-batool&theme=tokyonight"/>
 
 <img src="https://streak-stats.demolab.com?user=sanawer-batool&theme=tokyonight&hide_border=true&border_radius=12" alt="streak stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanawer-batool&theme=tokyo-night&hide_border=true&area=true&radius=12" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanawer-batool&theme=tokyonight" width="95%"/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanawer-batool&theme=algolia&column=7&margin-w=8&no-frame=true"/>
+  <img src="https://github-trophies.vercel.app/?username=sanawer-batool&theme=algolia&column=7&margin-w=8&no-frame=true"/>
 </a>
 
 <br/><br/>
