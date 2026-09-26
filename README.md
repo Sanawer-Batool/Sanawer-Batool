@@ -12,16 +12,21 @@
 
 <br>
 
-## 🚀 About Me
+## About
 
-- 🎓 Recently **graduated**, and currently working as an **AI/ML Intern**
-- 🔭 Deepening my skills in **MLOps and Machine Learning Pipelines**
-- 🌌 Part-time passion project: exploring the intersection of **Astrophysics + AI** — using ML to help decode signals from the cosmos
-- 👯 Open to collaborating on **Machine Learning** and **AI-for-Science** projects
-- 📝 I write on [Medium](https://sanawer-batool.medium.com/)
-- 💻 Portfolio: [sanawer-batool.github.io](https://sanawer-batool.github.io/)
-- 📫 Reach me at **sanawerb246@gmail.com**
-- ⚡ Fun fact: **I love being a student — forever curious, forever learning** 💫
+**Background** — Recent graduate currently working as an AI/ML Intern, with a growing focus on MLOps and machine learning pipelines.
+
+**Research interest** — Independently exploring the intersection of astrophysics and AI, applying machine learning methods to the analysis of astronomical signals and data.
+
+**Collaboration** — Open to machine learning and AI-for-science projects, particularly where the two overlap.
+
+**Writing** — Technical articles on [Medium](https://sanawer-batool.medium.com/)
+
+**Portfolio** — [sanawer-batool.github.io](https://sanawer-batool.github.io/)
+
+**Contact** — [sanawerb246@gmail.com](mailto:sanawerb246@gmail.com)
+
+<sub>Perpetually a student, by disposition as much as by degree.</sub>
 
 <br>
 
