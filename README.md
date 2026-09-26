@@ -3,10 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=220&section=header&text=Hi,%20I'm%20Sanawer%20Batool&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20%7C%20Astrophysics%20%2B%20AI%20Enthusiast&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=AI%2FML+Intern+%7C+Fresh+Graduate;Exploring+MLOps+%26+ML+Pipelines;Astrophysics+%2B+AI+Researcher+(part-time);Always+a+Student+at+Heart+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=650&lines=AI%2FML+Intern+%7C+Recent+Graduate;Where+Machine+Learning+Meets+the+Cosmos;Building+Models%2C+Chasing+Signals+from+Space" alt="Typing SVG" />
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=sanawer-batool&label=Profile%20views&color=6a11cb&style=for-the-badge" alt="sanawer-batool" />
 
 </div>
 
@@ -14,11 +12,11 @@
 
 ## About
 
-**Background** — Recent graduate currently working as an AI/ML Intern, with a growing focus on MLOps and machine learning pipelines.
+**Background** — Recent graduate, currently working as an AI/ML Intern.
 
-**Research interest** — Independently exploring the intersection of astrophysics and AI, applying machine learning methods to the analysis of astronomical signals and data.
+**Research interest** — Drawn to the space where machine learning meets astrophysics: using AI to make sense of the universe's harder questions, from noisy signals to the physics they encode. It's the pursuit I return to outside of work, purely out of curiosity.
 
-**Collaboration** — Open to machine learning and AI-for-science projects, particularly where the two overlap.
+**Collaboration** — Open to AI/ML projects, especially ones that put models to work on real scientific problems.
 
 **Writing** — Technical articles on [Medium](https://sanawer-batool.medium.com/)
 
@@ -26,7 +24,7 @@
 
 **Contact** — [sanawerb246@gmail.com](mailto:sanawerb246@gmail.com)
 
-<sub>Perpetually a student, by disposition as much as by degree.</sub>
+<sub>Still a student at heart — the questions haven't gotten any less interesting.</sub>
 
 <br>
 
