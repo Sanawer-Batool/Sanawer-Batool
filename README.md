@@ -71,12 +71,9 @@ writing:   technical articles on Medium
 
 <div align="center">
 
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanawer-batool&theme=tokyonight"/>
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sanawer-batool&theme=tokyonight"/>
+
 
 <img src="https://streak-stats.demolab.com?user=sanawer-batool&theme=tokyonight&hide_border=true&border_radius=12" alt="streak stats"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanawer-batool&theme=tokyonight" width="95%"/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-trophies.vercel.app/?username=sanawer-batool&theme=algolia&column=7&margin-w=8&no-frame=true"/>
